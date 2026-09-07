@@ -5,13 +5,13 @@ about:
   head: 64f3c35
   archived: false
   latestVersion: "v0.35.0"
-  collectedAt: 2026-09-07T04:55:25Z
+  collectedAt: 2026-09-07T19:38:00Z
 timeline:
   created: 2018-04-26
   lastCommit: 2026-09-01
   lastRelease: 2026-04-08
 popularity:
-  star: 7840
+  star: 7841
   watcher: 48
   fork: 400
   release: 54
@@ -83,7 +83,7 @@ total:
   commit: 2564
 ---
 path: /home/runner/.x-repo/github.com/svenstaro/miniserve
-collectedAt: 2026-09-07T04:55:27Z
+collectedAt: 2026-09-07T19:38:02Z
 loc:
   Rust:
     code: 6938
@@ -240,7 +240,7 @@ checks:
       - 'Warn: 0 commits out of 17 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:55:28+00:00
+  collectedAt: 2026-09-07T19:38:03+00:00
   platform:
     darwin/arm64:
       name:  miniserve-0.35.0-aarch64-apple-darwin
