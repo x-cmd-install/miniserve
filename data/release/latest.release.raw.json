@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5523728,
       "digest": "sha256:8e8dc916b1dc3bc2a46bf5a44308caf7db153e6940db178668929e1de40d1fbb",
-      "download_count": 2194,
+      "download_count": 2212,
       "created_at": "2026-04-08T12:14:23Z",
       "updated_at": "2026-04-08T12:14:24Z",
       "browser_download_url": "https://github.com/svenstaro/miniserve/releases/download/v0.35.0/miniserve-0.35.0-aarch64-apple-darwin"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2151068,
       "digest": "sha256:f50b296a36e2d8b38ca4ec69f1972f9f41600abacf6b7e72fedf921c48b1ee50",
-      "download_count": 1604,
+      "download_count": 1623,
       "created_at": "2026-04-08T12:12:06Z",
       "updated_at": "2026-04-08T12:12:07Z",
       "browser_download_url": "https://github.com/svenstaro/miniserve/releases/download/v0.35.0/miniserve-0.35.0-aarch64-unknown-linux-gnu"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2169156,
       "digest": "sha256:732b1d5b30a3903580cee9ca24b2ff04ba2a5c78fa1ba6579dc5154fc431b40a",
-      "download_count": 1013,
+      "download_count": 1018,
       "created_at": "2026-04-08T12:12:19Z",
       "updated_at": "2026-04-08T12:12:19Z",
       "browser_download_url": "https://github.com/svenstaro/miniserve/releases/download/v0.35.0/miniserve-0.35.0-aarch64-unknown-linux-musl"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1954612,
       "digest": "sha256:6efb59338ad18cc280e0731011a3aa002baab6c23d08389b3fd065fddcc9955d",
-      "download_count": 604,
+      "download_count": 608,
       "created_at": "2026-04-08T12:12:07Z",
       "updated_at": "2026-04-08T12:12:08Z",
       "browser_download_url": "https://github.com/svenstaro/miniserve/releases/download/v0.35.0/miniserve-0.35.0-arm-unknown-linux-musleabihf"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1947332,
       "digest": "sha256:346fc23edbbf6e1199584023f4aad5c1a1c6cc703b0fcb1f948b1b33a11a65ee",
-      "download_count": 610,
+      "download_count": 615,
       "created_at": "2026-04-08T12:12:06Z",
       "updated_at": "2026-04-08T12:12:06Z",
       "browser_download_url": "https://github.com/svenstaro/miniserve/releases/download/v0.35.0/miniserve-0.35.0-armv7-unknown-linux-gnueabihf"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 1983972,
       "digest": "sha256:0be26e48d8d7b4f2a9019b30c9eae1a1054c482989ec41024025bd9f54f9c8ff",
-      "download_count": 606,
+      "download_count": 611,
       "created_at": "2026-04-08T12:11:57Z",
       "updated_at": "2026-04-08T12:11:57Z",
       "browser_download_url": "https://github.com/svenstaro/miniserve/releases/download/v0.35.0/miniserve-0.35.0-armv7-unknown-linux-musleabihf"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1943552,
       "digest": "sha256:e27b65b8b03558efe18ab4484b24a862a6e5ba7ed22c32c730565d4f2647c284",
-      "download_count": 1377,
+      "download_count": 1384,
       "created_at": "2026-04-08T12:17:35Z",
       "updated_at": "2026-04-08T12:17:36Z",
       "browser_download_url": "https://github.com/svenstaro/miniserve/releases/download/v0.35.0/miniserve-0.35.0-i686-pc-windows-msvc.exe"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 5728376,
       "digest": "sha256:651b193353118316cfada6ab03f7c67caa7ad7e88b4b4820cc8dc6e3ed7f8577",
-      "download_count": 567,
+      "download_count": 571,
       "created_at": "2026-04-08T12:14:41Z",
       "updated_at": "2026-04-08T12:14:42Z",
       "browser_download_url": "https://github.com/svenstaro/miniserve/releases/download/v0.35.0/miniserve-0.35.0-riscv64gc-unknown-linux-gnu"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 6461308,
       "digest": "sha256:63a99448bf7c450f1264a1af313646df30251bdbc3284b8f4d2d55cee2b98c55",
-      "download_count": 1652,
+      "download_count": 1662,
       "created_at": "2026-04-08T12:14:40Z",
       "updated_at": "2026-04-08T12:14:41Z",
       "browser_download_url": "https://github.com/svenstaro/miniserve/releases/download/v0.35.0/miniserve-0.35.0-x86_64-apple-darwin"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 2191360,
       "digest": "sha256:3229e75b40b3870382d23c9a0ecec880b9bd5f6e49160ce602bb15d00f275b6a",
-      "download_count": 6297,
+      "download_count": 6330,
       "created_at": "2026-04-08T12:17:13Z",
       "updated_at": "2026-04-08T12:17:13Z",
       "browser_download_url": "https://github.com/svenstaro/miniserve/releases/download/v0.35.0/miniserve-0.35.0-x86_64-pc-windows-msvc.exe"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 2372224,
       "digest": "sha256:3b43ec6cb8ef5d5cc72a216b2309ef77c90952fd2c3e3c6eb9010dec39f3a086",
-      "download_count": 5042,
+      "download_count": 5082,
       "created_at": "2026-04-08T12:11:43Z",
       "updated_at": "2026-04-08T12:11:44Z",
       "browser_download_url": "https://github.com/svenstaro/miniserve/releases/download/v0.35.0/miniserve-0.35.0-x86_64-unknown-linux-gnu"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 2443404,
       "digest": "sha256:c630ee030d5d9d83c88c5cc72f43ae215b0c214d64fd7afc92244fe369af2964",
-      "download_count": 3389,
+      "download_count": 3406,
       "created_at": "2026-04-08T12:12:27Z",
       "updated_at": "2026-04-08T12:12:27Z",
       "browser_download_url": "https://github.com/svenstaro/miniserve/releases/download/v0.35.0/miniserve-0.35.0-x86_64-unknown-linux-musl"

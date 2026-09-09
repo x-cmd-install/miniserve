@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.35.0"
   latestRelease: "v0.35.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:03:52Z
+  collectedAt: 2026-09-09T19:05:05Z
 timeline:
   created: 2018-04-26
   lastCommit: 2026-09-01
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-04-08
   lastPrerelease: 
 popularity:
-  star: 7843
+  star: 7844
   watcher: 48
   fork: 400
   release: 54
@@ -87,7 +87,7 @@ total:
   commit: 2564
 ---
 path: /home/runner/.x-repo/github.com/svenstaro/miniserve
-collectedAt: 2026-09-09T05:03:53Z
+collectedAt: 2026-09-09T19:05:08Z
 loc:
   Rust:
     code: 6938
