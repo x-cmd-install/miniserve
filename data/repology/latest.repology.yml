@@ -1,0 +1,1024 @@
+- repo: alpine_3_17
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve-doc
+  visiblename: miniserve-doc
+  version: 0.21.0
+  origversion: 0.21.0-r0
+  status: outdated
+  summary: Quickly serve files via HTTP (documentation)
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_17
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve-bash-completion
+  visiblename: miniserve-bash-completion
+  version: 0.21.0
+  origversion: 0.21.0-r0
+  status: outdated
+  summary: Bash completions for miniserve
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_17
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve-fish-completion
+  visiblename: miniserve-fish-completion
+  version: 0.21.0
+  origversion: 0.21.0-r0
+  status: outdated
+  summary: Fish completions for miniserve
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_17
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve-zsh-completion
+  visiblename: miniserve-zsh-completion
+  version: 0.21.0
+  origversion: 0.21.0-r0
+  status: outdated
+  summary: Zsh completions for miniserve
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_17
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve
+  visiblename: miniserve
+  version: 0.21.0
+  origversion: 0.21.0-r0
+  status: outdated
+  summary: Quickly serve files via HTTP
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve
+  visiblename: miniserve
+  version: 0.21.0
+  origversion: 0.21.0-r0
+  status: outdated
+  summary: Quickly serve files via HTTP
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve-bash-completion
+  visiblename: miniserve-bash-completion
+  version: 0.21.0
+  origversion: 0.21.0-r0
+  status: outdated
+  summary: Bash completions for miniserve
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve-doc
+  visiblename: miniserve-doc
+  version: 0.21.0
+  origversion: 0.21.0-r0
+  status: outdated
+  summary: Quickly serve files via HTTP (documentation)
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve-fish-completion
+  visiblename: miniserve-fish-completion
+  version: 0.21.0
+  origversion: 0.21.0-r0
+  status: outdated
+  summary: Fish completions for miniserve
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve-zsh-completion
+  visiblename: miniserve-zsh-completion
+  version: 0.21.0
+  origversion: 0.21.0-r0
+  status: outdated
+  summary: Zsh completions for miniserve
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve
+  visiblename: miniserve
+  version: 0.24.0
+  origversion: 0.24.0-r0
+  status: outdated
+  summary: Quickly serve files via HTTP
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve-bash-completion
+  visiblename: miniserve-bash-completion
+  version: 0.24.0
+  origversion: 0.24.0-r0
+  status: outdated
+  summary: Bash completions for miniserve
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve-doc
+  visiblename: miniserve-doc
+  version: 0.24.0
+  origversion: 0.24.0-r0
+  status: outdated
+  summary: Quickly serve files via HTTP (documentation)
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve-fish-completion
+  visiblename: miniserve-fish-completion
+  version: 0.24.0
+  origversion: 0.24.0-r0
+  status: outdated
+  summary: Fish completions for miniserve
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve-zsh-completion
+  visiblename: miniserve-zsh-completion
+  version: 0.24.0
+  origversion: 0.24.0-r0
+  status: outdated
+  summary: Zsh completions for miniserve
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve
+  visiblename: miniserve
+  version: 0.27.1
+  origversion: 0.27.1-r0
+  status: outdated
+  summary: Quickly serve files via HTTP
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve-bash-completion
+  visiblename: miniserve-bash-completion
+  version: 0.27.1
+  origversion: 0.27.1-r0
+  status: outdated
+  summary: Bash completions for miniserve
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve-doc
+  visiblename: miniserve-doc
+  version: 0.27.1
+  origversion: 0.27.1-r0
+  status: outdated
+  summary: Quickly serve files via HTTP (documentation)
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve-fish-completion
+  visiblename: miniserve-fish-completion
+  version: 0.27.1
+  origversion: 0.27.1-r0
+  status: outdated
+  summary: Fish completions for miniserve
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve-zsh-completion
+  visiblename: miniserve-zsh-completion
+  version: 0.27.1
+  origversion: 0.27.1-r0
+  status: outdated
+  summary: Zsh completions for miniserve
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve
+  visiblename: miniserve
+  version: 0.28.0
+  origversion: 0.28.0-r0
+  status: outdated
+  summary: Quickly serve files via HTTP
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve-bash-completion
+  visiblename: miniserve-bash-completion
+  version: 0.28.0
+  origversion: 0.28.0-r0
+  status: outdated
+  summary: Bash completions for miniserve
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve-doc
+  visiblename: miniserve-doc
+  version: 0.28.0
+  origversion: 0.28.0-r0
+  status: outdated
+  summary: Quickly serve files via HTTP (documentation)
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve-fish-completion
+  visiblename: miniserve-fish-completion
+  version: 0.28.0
+  origversion: 0.28.0-r0
+  status: outdated
+  summary: Fish completions for miniserve
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve-zsh-completion
+  visiblename: miniserve-zsh-completion
+  version: 0.28.0
+  origversion: 0.28.0-r0
+  status: outdated
+  summary: Zsh completions for miniserve
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve
+  visiblename: miniserve
+  version: 0.29.0
+  origversion: 0.29.0-r0
+  status: outdated
+  summary: Quickly serve files via HTTP
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve-bash-completion
+  visiblename: miniserve-bash-completion
+  version: 0.29.0
+  origversion: 0.29.0-r0
+  status: outdated
+  summary: Bash completions for miniserve
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve-doc
+  visiblename: miniserve-doc
+  version: 0.29.0
+  origversion: 0.29.0-r0
+  status: outdated
+  summary: Quickly serve files via HTTP (documentation)
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve-fish-completion
+  visiblename: miniserve-fish-completion
+  version: 0.29.0
+  origversion: 0.29.0-r0
+  status: outdated
+  summary: Fish completions for miniserve
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve-zsh-completion
+  visiblename: miniserve-zsh-completion
+  version: 0.29.0
+  origversion: 0.29.0-r0
+  status: outdated
+  summary: Zsh completions for miniserve
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve
+  visiblename: miniserve
+  version: 0.32.0
+  origversion: 0.32.0-r0
+  status: outdated
+  summary: Quickly serve files via HTTP
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve-bash-completion
+  visiblename: miniserve-bash-completion
+  version: 0.32.0
+  origversion: 0.32.0-r0
+  status: outdated
+  summary: Bash completions for miniserve
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve-doc
+  visiblename: miniserve-doc
+  version: 0.32.0
+  origversion: 0.32.0-r0
+  status: outdated
+  summary: Quickly serve files via HTTP (documentation)
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve-fish-completion
+  visiblename: miniserve-fish-completion
+  version: 0.32.0
+  origversion: 0.32.0-r0
+  status: outdated
+  summary: Fish completions for miniserve
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve-zsh-completion
+  visiblename: miniserve-zsh-completion
+  version: 0.32.0
+  origversion: 0.32.0-r0
+  status: outdated
+  summary: Zsh completions for miniserve
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve
+  visiblename: miniserve
+  version: 0.35.0
+  origversion: 0.35.0-r0
+  status: newest
+  summary: Quickly serve files via HTTP
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve-bash-completion
+  visiblename: miniserve-bash-completion
+  version: 0.35.0
+  origversion: 0.35.0-r0
+  status: newest
+  summary: Bash completions for miniserve
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve-doc
+  visiblename: miniserve-doc
+  version: 0.35.0
+  origversion: 0.35.0-r0
+  status: newest
+  summary: Quickly serve files via HTTP (documentation)
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve-fish-completion
+  visiblename: miniserve-fish-completion
+  version: 0.35.0
+  origversion: 0.35.0-r0
+  status: newest
+  summary: Fish completions for miniserve
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve-zsh-completion
+  visiblename: miniserve-zsh-completion
+  version: 0.35.0
+  origversion: 0.35.0-r0
+  status: newest
+  summary: Zsh completions for miniserve
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve
+  visiblename: miniserve
+  version: 0.35.0
+  origversion: 0.35.0-r0
+  status: newest
+  summary: Quickly serve files via HTTP
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve-bash-completion
+  visiblename: miniserve-bash-completion
+  version: 0.35.0
+  origversion: 0.35.0-r0
+  status: newest
+  summary: Bash completions for miniserve
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve-doc
+  visiblename: miniserve-doc
+  version: 0.35.0
+  origversion: 0.35.0-r0
+  status: newest
+  summary: Quickly serve files via HTTP (documentation)
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve-fish-completion
+  visiblename: miniserve-fish-completion
+  version: 0.35.0
+  origversion: 0.35.0-r0
+  status: newest
+  summary: Fish completions for miniserve
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve-zsh-completion
+  visiblename: miniserve-zsh-completion
+  version: 0.35.0
+  origversion: 0.35.0-r0
+  status: newest
+  summary: Zsh completions for miniserve
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alt_p11
+  srcname: miniserve
+  binnames:
+    - miniserve
+  visiblename: miniserve
+  version: 0.28.0
+  origversion: 0.28.0-alt1
+  status: outdated
+  summary: A CLI tool to serve files and dirs over HTTP
+  maintainers:
+    - amakeenk@altlinux.org
+  licenses:
+    - MIT
+  categories:
+    - System/Servers
+- repo: altsisyphus
+  srcname: miniserve
+  binnames:
+    - miniserve
+    - miniserve-debuginfo
+  visiblename: miniserve
+  version: 0.35.0
+  origversion: 0.35.0-alt1
+  status: newest
+  summary: A CLI tool to serve files and dirs over HTTP
+  maintainers:
+    - dmaks@altlinux.org
+  licenses:
+    - MIT
+  categories:
+    - System/Servers
+- repo: aosc
+  srcname: app-web/miniserve
+  binname: miniserve
+  visiblename: miniserve
+  version: 0.29.0
+  origversion: null
+  status: outdated
+  summary: A small, self-contained HTTP file server
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - net
+- repo: arch
+  subrepo: extra
+  srcname: miniserve
+  binname: miniserve
+  visiblename: miniserve
+  version: 0.35.0
+  origversion: 0.35.0-1
+  status: newest
+  summary: Tool to serve files via HTTP
+  licenses:
+    - MIT
+- repo: chimera
+  subrepo: user
+  srcname: miniserve
+  binname: miniserve
+  visiblename: miniserve
+  version: 0.35.0
+  origversion: 0.35.0-r0
+  status: newest
+  summary: CLI tool to serve files and dirs over HTTP
+  licenses:
+    - MIT
+- repo: chimera
+  subrepo: user
+  srcname: miniserve
+  binname: miniserve-bashcomp
+  visiblename: miniserve-bashcomp
+  version: 0.35.0
+  origversion: 0.35.0-r0
+  status: newest
+  summary: CLI tool to serve files and dirs over HTTP (bash completions)
+  licenses:
+    - MIT
+- repo: chimera
+  subrepo: user
+  srcname: miniserve
+  binname: miniserve-doc
+  visiblename: miniserve-doc
+  version: 0.35.0
+  origversion: 0.35.0-r0
+  status: newest
+  summary: CLI tool to serve files and dirs over HTTP (documentation)
+  licenses:
+    - MIT
+- repo: chimera
+  subrepo: user
+  srcname: miniserve
+  binname: miniserve-fishcomp
+  visiblename: miniserve-fishcomp
+  version: 0.35.0
+  origversion: 0.35.0-r0
+  status: newest
+  summary: CLI tool to serve files and dirs over HTTP (fish completions)
+  licenses:
+    - MIT
+- repo: chimera
+  subrepo: user
+  srcname: miniserve
+  binname: miniserve-man
+  visiblename: miniserve-man
+  version: 0.35.0
+  origversion: 0.35.0-r0
+  status: newest
+  summary: CLI tool to serve files and dirs over HTTP (manual pages)
+  licenses:
+    - MIT
+- repo: chimera
+  subrepo: user
+  srcname: miniserve
+  binname: miniserve-zshcomp
+  visiblename: miniserve-zshcomp
+  version: 0.35.0
+  origversion: 0.35.0-r0
+  status: newest
+  summary: CLI tool to serve files and dirs over HTTP (zsh completions)
+  licenses:
+    - MIT
+- repo: crates_io
+  srcname: miniserve
+  visiblename: miniserve
+  version: 0.35.0
+  origversion: null
+  status: newest
+  summary: For when you really just want to serve some files over HTTP right now!
+- repo: debian_14
+  subrepo: forky/main
+  srcname: rust-miniserve
+  binnames:
+    - miniserve
+  visiblename: rust-miniserve
+  version: 0.35.0
+  origversion: 0.35.0-4
+  status: newest
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - git@rxv.cc
+  categories:
+    - net
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: rust-miniserve
+  binnames:
+    - miniserve
+  visiblename: rust-miniserve
+  version: 0.35.0
+  origversion: 0.35.0-4
+  status: newest
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - git@rxv.cc
+  categories:
+    - net
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: rust-miniserve
+  binnames:
+    - miniserve
+  visiblename: rust-miniserve
+  version: 0.35.0
+  origversion: 0.35.0-4
+  status: newest
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - git@rxv.cc
+  categories:
+    - net
+- repo: freebsd
+  srcname: www/miniserve
+  binname: miniserve
+  visiblename: www/miniserve
+  version: 0.35.0
+  origversion: 0.35.0_4
+  status: newest
+  summary: Ad-hoc HTTP server for file sharing
+  maintainers:
+    - bofh@freebsd.org
+  categories:
+    - www
+- repo: homebrew
+  srcname: miniserve
+  visiblename: miniserve
+  version: 0.35.0
+  origversion: null
+  status: newest
+  summary: High performance static file server
+- repo: kali_rolling
+  subrepo: main
+  srcname: rust-miniserve
+  binnames:
+    - miniserve
+  visiblename: rust-miniserve
+  version: 0.35.0
+  origversion: 0.35.0-4
+  status: newest
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - git@rxv.cc
+  categories:
+    - net
+- repo: macports
+  srcname: net/miniserve
+  binname: miniserve
+  visiblename: miniserve
+  version: 0.35.0
+  origversion: null
+  status: newest
+  summary: miniserve is a small, self-contained cross-platform CLI tool that allows you to just grab the binary and serve some file(s) via HTTP.
+  maintainers:
+    - judaew@macports
+    - judaew@github
+  licenses:
+    - MIT
+  categories:
+    - net
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: miniserve
+  binname: miniserve
+  visiblename: miniserve
+  version: 0.35.0
+  origversion: 0.35.0-1
+  status: newest
+  summary: Tool to serve files via HTTP
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: miniserve
+  binname: miniserve
+  visiblename: miniserve
+  version: 0.35.0
+  origversion: 0.35.0-1
+  status: newest
+  summary: Tool to serve files via HTTP
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: miniserve
+  binname: miniserve
+  visiblename: miniserve
+  version: 0.35.0
+  origversion: 0.35.0-1
+  status: newest
+  summary: Tool to serve files via HTTP
+  licenses:
+    - MIT
+- repo: msys2_clang64
+  srcname: mingw-w64-miniserve
+  binname: mingw-w64-clang-x86_64-miniserve
+  visiblename: mingw-w64-clang-x86_64-miniserve
+  version: 0.35.0
+  origversion: 0.35.0-1
+  status: newest
+  summary: Tool to serve files via HTTP (mingw-w64)
+  licenses:
+    - spdx:MIT
+- repo: msys2_clangarm64
+  srcname: mingw-w64-miniserve
+  binname: mingw-w64-clang-aarch64-miniserve
+  visiblename: mingw-w64-clang-aarch64-miniserve
+  version: 0.35.0
+  origversion: 0.35.0-1
+  status: newest
+  summary: Tool to serve files via HTTP (mingw-w64)
+  licenses:
+    - spdx:MIT
+- repo: msys2_ucrt64
+  srcname: mingw-w64-miniserve
+  binname: mingw-w64-ucrt-x86_64-miniserve
+  visiblename: mingw-w64-ucrt-x86_64-miniserve
+  version: 0.35.0
+  origversion: 0.35.0-1
+  status: newest
+  summary: Tool to serve files via HTTP (mingw-w64)
+  licenses:
+    - spdx:MIT
+- repo: nix_stable_24_05
+  srcname: miniserve
+  visiblename: miniserve
+  version: 0.27.1
+  origversion: null
+  status: outdated
+  summary: CLI tool to serve files and directories over HTTP
+  maintainers:
+    - figsoda@pm.me
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: miniserve
+  visiblename: miniserve
+  version: 0.28.0
+  origversion: null
+  status: outdated
+  summary: CLI tool to serve files and directories over HTTP
+  maintainers:
+    - figsoda@pm.me
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: miniserve
+  visiblename: miniserve
+  version: 0.28.0
+  origversion: null
+  status: outdated
+  summary: CLI tool to serve files and directories over HTTP
+  maintainers:
+    - figsoda@pm.me
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: miniserve
+  visiblename: miniserve
+  version: 0.33.0
+  origversion: null
+  status: outdated
+  summary: CLI tool to serve files and directories over HTTP
+  maintainers:
+    - defelo@github
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: miniserve
+  visiblename: miniserve
+  version: 0.35.0
+  origversion: null
+  status: newest
+  summary: CLI tool to serve files and directories over HTTP
+  maintainers:
+    - defelo@github
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: miniserve
+  visiblename: miniserve
+  version: 0.35.0
+  origversion: null
+  status: newest
+  summary: CLI tool to serve files and directories over HTTP
+  maintainers:
+    - defelo@github
+  licenses:
+    - MIT
+- repo: parabola
+  subrepo: extra
+  srcname: miniserve
+  binname: miniserve
+  visiblename: miniserve
+  version: 0.35.0
+  origversion: 0.35.0-1
+  status: newest
+  summary: Tool to serve files via HTTP
+  licenses:
+    - MIT
+- repo: raspbian_testing
+  subrepo: main
+  srcname: rust-miniserve
+  binnames:
+    - miniserve
+  visiblename: rust-miniserve
+  version: 0.35.0
+  origversion: 0.35.0-4
+  status: newest
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - git@rxv.cc
+  categories:
+    - net
+- repo: scoop
+  subrepo: main
+  binname: miniserve
+  visiblename: miniserve
+  version: 0.35.0
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
+- repo: stalix
+  srcname: bin/mini/serve
+  binname: bin/mini/serve
+  visiblename: bin/mini/serve
+  version: 0.35.0
+  origversion: null
+  status: newest
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
+- repo: stalix_dev
+  srcname: bin/mini/serve
+  binname: bin/mini/serve
+  visiblename: bin/mini/serve
+  version: 0.35.0
+  origversion: null
+  status: newest
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
+- repo: termux
+  srcname: miniserve
+  binname: miniserve
+  visiblename: miniserve
+  version: 0.35.0
+  origversion: null
+  status: newest
+  summary: Tool to serve files and dirs over HTTP
+  maintainers:
+    - termux@github
+- repo: ubuntu_26_10
+  subrepo: stonking/universe
+  srcname: rust-miniserve
+  binnames:
+    - miniserve
+  visiblename: rust-miniserve
+  version: 0.35.0
+  origversion: 0.35.0-4
+  status: newest
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - git@rxv.cc
+  categories:
+    - universe/net
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: miniserve
+  binname: miniserve
+  visiblename: miniserve
+  version: 0.33.0
+  origversion: 0.33.0_1
+  status: outdated
+  summary: CLI tool to serve files and dirs over HTTP
+  maintainers:
+    - gottox@voidlinux.org
+  licenses:
+    - MIT
