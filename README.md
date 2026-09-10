@@ -22,7 +22,25 @@ x install miniserve
 - **Latest**: `v0.35.0` (2026-04-08)
 - **Last commit**: 2026-09-01
 - **Assets in release**: 14
-- **Published**: 2026-04-08T12:11:43Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [miniserve-0.35.0-aarch64-apple-darwin](https://github.com/svenstaro/miniserve/releases/download/v0.35.0/miniserve-0.35.0-aarch64-apple-darwin) | 5.3 MiB | `native/darwin/arm64` |
+| [miniserve-0.35.0-aarch64-unknown-linux-gnu](https://github.com/svenstaro/miniserve/releases/download/v0.35.0/miniserve-0.35.0-aarch64-unknown-linux-gnu) | 2.1 MiB | `native/linux/arm64/glibc` |
+| [miniserve-0.35.0-aarch64-unknown-linux-musl](https://github.com/svenstaro/miniserve/releases/download/v0.35.0/miniserve-0.35.0-aarch64-unknown-linux-musl) | 2.1 MiB | `native/linux/arm64/musl` |
+| [miniserve-0.35.0-arm-unknown-linux-musleabihf](https://github.com/svenstaro/miniserve/releases/download/v0.35.0/miniserve-0.35.0-arm-unknown-linux-musleabihf) | 1.9 MiB | `native/linux/arm/musl` |
+| [miniserve-0.35.0-armv7-unknown-linux-gnueabihf](https://github.com/svenstaro/miniserve/releases/download/v0.35.0/miniserve-0.35.0-armv7-unknown-linux-gnueabihf) | 1.9 MiB | `native/linux/arm/glibc` |
+| [miniserve-0.35.0-armv7-unknown-linux-musleabihf](https://github.com/svenstaro/miniserve/releases/download/v0.35.0/miniserve-0.35.0-armv7-unknown-linux-musleabihf) | 1.9 MiB | `native/linux/arm/musl` |
+| [miniserve-0.35.0-i686-pc-windows-msvc.exe](https://github.com/svenstaro/miniserve/releases/download/v0.35.0/miniserve-0.35.0-i686-pc-windows-msvc.exe) | 1.9 MiB | `native/win/x64` |
+| [miniserve-0.35.0-riscv64gc-unknown-linux-gnu](https://github.com/svenstaro/miniserve/releases/download/v0.35.0/miniserve-0.35.0-riscv64gc-unknown-linux-gnu) | 5.5 MiB | `native/linux/riscv64/glibc` |
+| [miniserve-0.35.0-x86_64-apple-darwin](https://github.com/svenstaro/miniserve/releases/download/v0.35.0/miniserve-0.35.0-x86_64-apple-darwin) | 6.2 MiB | `native/darwin/x64` |
+| [miniserve-0.35.0-x86_64-pc-windows-msvc.exe](https://github.com/svenstaro/miniserve/releases/download/v0.35.0/miniserve-0.35.0-x86_64-pc-windows-msvc.exe) | 2.1 MiB | `native/win/x64` |
+| [miniserve-0.35.0-x86_64-unknown-freebsd](https://github.com/svenstaro/miniserve/releases/download/v0.35.0/miniserve-0.35.0-x86_64-unknown-freebsd) | 7.3 MiB | `other` |
+| [miniserve-0.35.0-x86_64-unknown-illumos](https://github.com/svenstaro/miniserve/releases/download/v0.35.0/miniserve-0.35.0-x86_64-unknown-illumos) | 6.5 MiB | `other` |
+| [miniserve-0.35.0-x86_64-unknown-linux-gnu](https://github.com/svenstaro/miniserve/releases/download/v0.35.0/miniserve-0.35.0-x86_64-unknown-linux-gnu) | 2.3 MiB | `native/linux/x64/glibc` |
+| [miniserve-0.35.0-x86_64-unknown-linux-musl](https://github.com/svenstaro/miniserve/releases/download/v0.35.0/miniserve-0.35.0-x86_64-unknown-linux-musl) | 2.3 MiB | `native/linux/x64/musl` |
 
 ## Popularity
 
@@ -67,8 +85,8 @@ Lowest-scoring checks:
 Install metadata for miniserve lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `miniserve` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/miniserve.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/miniserve.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:08:48Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:36:54Z._
