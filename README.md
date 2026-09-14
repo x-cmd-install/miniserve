@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,851 · **Forks**: 400 · **Open issues**: 340 · **Contributors**: 69
+- **Stars**: 7,855 · **Forks**: 400 · **Open issues**: 340 · **Contributors**: 69
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 4 | 0 | 1 | 1 |
-| last60d | 2026-07-15 | 0 | 0 | 5 | 0 | 1 | 3 |
-| 90d | 2026-06-15 | 0 | 1 | 8 | 0 | 3 | 4 |
-| last180d | 2026-03-17 | 2 | 6 | 8 | 1 | 7 | 23 |
-| 360d | 2025-09-18 | 3 | 19 | 8 | 10 | 10 | 99 |
-| last720d | 2024-09-23 | 7 | 48 | 11 | 26 | 29 | 283 |
+| 30d | 2026-08-15 | 0 | 0 | 4 | 0 | 1 | 1 |
+| last60d | 2026-07-16 | 0 | 0 | 5 | 0 | 1 | 3 |
+| 90d | 2026-06-16 | 0 | 1 | 8 | 0 | 3 | 4 |
+| last180d | 2026-03-18 | 2 | 6 | 8 | 1 | 7 | 23 |
+| 360d | 2025-09-19 | 3 | 19 | 8 | 10 | 10 | 99 |
+| last720d | 2024-09-24 | 7 | 48 | 11 | 26 | 29 | 283 |
 
 ## Release assets
 
@@ -83,20 +83,6 @@ Lowest-scoring checks:
 | [miniserve-0.35.0-x86_64-unknown-linux-gnu](https://github.com/svenstaro/miniserve/releases/download/v0.35.0/miniserve-0.35.0-x86_64-unknown-linux-gnu) | 2.3 MiB | `native/linux/x64/glibc` |
 | [miniserve-0.35.0-x86_64-unknown-linux-musl](https://github.com/svenstaro/miniserve/releases/download/v0.35.0/miniserve-0.35.0-x86_64-unknown-linux-musl) | 2.3 MiB | `native/linux/x64/musl` |
 
-## Distribution status
-
-Reported by **83** distros on [repology.org](https://repology.org/project/miniserve). **41** are ✅ on the latest upstream release, **42** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `0.35.0` | ✅ latest |
-| Debian 14 | `0.35.0` | ✅ latest |
-| Arch | `0.35.0` | ✅ latest |
-| Homebrew | `0.35.0` | ✅ latest |
-| Nix unstable | `0.35.0` | ✅ latest |
-| Void | `0.33.0` | ⚠️ outdated |
-| Alpine edge | `0.35.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for miniserve lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `miniserve` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -106,4 +92,4 @@ Install metadata for miniserve lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:14:41Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:31:12Z._
