@@ -4,7 +4,7 @@
 
 🌟 For when you really just want to serve some files over HTTP right now!
 
-![miniserve](https://repo.x-cmd.io/miniserve.svg)
+[![x-cmd/install — miniserve Code Quality Monitoring Repo Card](https://repo.x-cmd.io/miniserve.svg)](https://x-cmd.com/install/miniserve)
 
 ## Install
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.35.0` (2026-04-08)
-- **Last commit**: 2026-09-01
+- **Last commit**: 2026-09-18
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 7,861 · **Forks**: 400 · **Open issues**: 340 · **Contributors**: 69
+- **Stars**: 7,865 · **Forks**: 400 · **Open issues**: 340 · **Contributors**: 69
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 675 · **Open PRs**: 13 · **Closed issues**: 261 · **Open issues**: 79 · **Commits**: 2564
+- **Releases**: 54 · **Merged PRs**: 675 · **Open PRs**: 13 · **Closed issues**: 261 · **Open issues**: 79 · **Commits**: 2565
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 2 | 0 | 0 | 1 |
-| last60d | 2026-07-20 | 0 | 0 | 5 | 0 | 1 | 3 |
-| 90d | 2026-06-20 | 0 | 1 | 8 | 0 | 2 | 4 |
-| last180d | 2026-03-22 | 2 | 6 | 8 | 1 | 7 | 23 |
-| 360d | 2025-09-23 | 3 | 19 | 8 | 9 | 10 | 99 |
-| last720d | 2024-09-28 | 7 | 48 | 11 | 26 | 29 | 283 |
+| 30d | 2026-08-21 | 0 | 0 | 1 | 0 | 0 | 2 |
+| last60d | 2026-07-22 | 0 | 0 | 5 | 0 | 1 | 4 |
+| 90d | 2026-06-22 | 0 | 1 | 8 | 0 | 2 | 5 |
+| last180d | 2026-03-24 | 2 | 6 | 8 | 1 | 7 | 24 |
+| 360d | 2025-09-25 | 3 | 19 | 8 | 9 | 10 | 99 |
+| last720d | 2024-09-30 | 7 | 48 | 11 | 26 | 29 | 284 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for miniserve lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:14:23Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:29:02Z._

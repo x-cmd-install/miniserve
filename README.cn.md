@@ -4,7 +4,7 @@
 
 🌟 For when you really just want to serve some files over HTTP right now!
 
-![miniserve](https://repo.x-cmd.io/miniserve.svg?lang=zh)
+[![x-cmd/install — miniserve Code Quality Monitoring Repo Card](https://repo.x-cmd.io/miniserve.svg?lang=zh)](https://x-cmd.com/install/miniserve)
 
 ## 安装
 
@@ -42,27 +42,27 @@ x install miniserve
 ## 发布
 
 - **最新版本**: `v0.35.0` (2026-04-08)
-- **最近提交**: 2026-09-01
+- **最近提交**: 2026-09-18
 - **Release 含资产**: 14 个
 
 ## 流行度
 
-- **Star**: 7,861 · **Fork**: 400 · **开放 issue**: 340 · **贡献者**: 69
+- **Star**: 7,865 · **Fork**: 400 · **开放 issue**: 340 · **贡献者**: 69
 
 ## 累计统计
 
-- **发布数**: 54 · **已合并 PR**: 675 · **开放 PR**: 13 · **已关闭 issue**: 261 · **开放 issue**: 79 · **提交数**: 2564
+- **发布数**: 54 · **已合并 PR**: 675 · **开放 PR**: 13 · **已关闭 issue**: 261 · **开放 issue**: 79 · **提交数**: 2565
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 2 | 0 | 0 | 1 |
-| last60d | 2026-07-20 | 0 | 0 | 5 | 0 | 1 | 3 |
-| 90d | 2026-06-20 | 0 | 1 | 8 | 0 | 2 | 4 |
-| last180d | 2026-03-22 | 2 | 6 | 8 | 1 | 7 | 23 |
-| 360d | 2025-09-23 | 3 | 19 | 8 | 9 | 10 | 99 |
-| last720d | 2024-09-28 | 7 | 48 | 11 | 26 | 29 | 283 |
+| 30d | 2026-08-21 | 0 | 0 | 1 | 0 | 0 | 2 |
+| last60d | 2026-07-22 | 0 | 0 | 5 | 0 | 1 | 4 |
+| 90d | 2026-06-22 | 0 | 1 | 8 | 0 | 2 | 5 |
+| last180d | 2026-03-24 | 2 | 6 | 8 | 1 | 7 | 24 |
+| 360d | 2025-09-25 | 3 | 19 | 8 | 9 | 10 | 99 |
+| last720d | 2024-09-30 | 7 | 48 | 11 | 26 | 29 | 284 |
 
 ## Release 资产
 
@@ -92,4 +92,4 @@ miniserve 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:14:23Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:29:03Z._
