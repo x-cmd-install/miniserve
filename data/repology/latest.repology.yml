@@ -1,14 +1,17 @@
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: miniserve
-  binname: miniserve
-  visiblename: miniserve
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: rust-miniserve
+  binnames:
+    - miniserve
+  visiblename: rust-miniserve
   version: 0.35.0
-  origversion: 0.35.0-1
+  origversion: 0.35.0-5
   status: newest
-  summary: Tool to serve files via HTTP
-  licenses:
-    - MIT
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - git@rxv.cc
+  categories:
+    - net
 - repo: alpine_3_17
   subrepo: community
   srcname: miniserve
@@ -124,17 +127,6 @@
   summary: Fish completions for miniserve
   maintainers:
     - michal@polanski.me
-  licenses:
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: miniserve
-  binname: miniserve
-  visiblename: miniserve
-  version: 0.35.0
-  origversion: 0.35.0-1
-  status: newest
-  summary: Tool to serve files via HTTP
   licenses:
     - MIT
 - repo: alpine_3_18
@@ -760,20 +752,6 @@
     - git@rxv.cc
   categories:
     - net
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: rust-miniserve
-  binnames:
-    - miniserve
-  visiblename: rust-miniserve
-  version: 0.35.0
-  origversion: 0.35.0-5
-  status: newest
-  maintainers:
-    - pkg-rust-maintainers@alioth-lists.debian.net
-    - git@rxv.cc
-  categories:
-    - net
 - repo: freebsd
   srcname: www/miniserve
   binname: miniserve
@@ -823,6 +801,28 @@
   categories:
     - net
 - repo: manjaro_stable
+  subrepo: extra
+  srcname: miniserve
+  binname: miniserve
+  visiblename: miniserve
+  version: 0.35.0
+  origversion: 0.35.0-1
+  status: newest
+  summary: Tool to serve files via HTTP
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: miniserve
+  binname: miniserve
+  visiblename: miniserve
+  version: 0.35.0
+  origversion: 0.35.0-1
+  status: newest
+  summary: Tool to serve files via HTTP
+  licenses:
+    - MIT
+- repo: manjaro_unstable
   subrepo: extra
   srcname: miniserve
   binname: miniserve
