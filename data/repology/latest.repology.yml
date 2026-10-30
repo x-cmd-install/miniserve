@@ -1,17 +1,14 @@
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: rust-miniserve
-  binnames:
-    - miniserve
-  visiblename: rust-miniserve
+- repo: chimera
+  subrepo: user
+  srcname: miniserve
+  binname: miniserve
+  visiblename: miniserve
   version: 0.35.0
-  origversion: 0.35.0-5
+  origversion: 0.35.0-r0
   status: newest
-  maintainers:
-    - pkg-rust-maintainers@alioth-lists.debian.net
-    - git@rxv.cc
-  categories:
-    - net
+  summary: CLI tool to serve files and dirs over HTTP
+  licenses:
+    - MIT
 - repo: alpine_3_17
   subrepo: community
   srcname: miniserve
@@ -101,6 +98,17 @@
   summary: Bash completions for miniserve
   maintainers:
     - michal@polanski.me
+  licenses:
+    - MIT
+- repo: chimera
+  subrepo: user
+  srcname: miniserve
+  binname: miniserve-bashcomp
+  visiblename: miniserve-bashcomp
+  version: 0.35.0
+  origversion: 0.35.0-r0
+  status: newest
+  summary: CLI tool to serve files and dirs over HTTP (bash completions)
   licenses:
     - MIT
 - repo: alpine_3_18
@@ -654,28 +662,6 @@
 - repo: chimera
   subrepo: user
   srcname: miniserve
-  binname: miniserve
-  visiblename: miniserve
-  version: 0.35.0
-  origversion: 0.35.0-r0
-  status: newest
-  summary: CLI tool to serve files and dirs over HTTP
-  licenses:
-    - MIT
-- repo: chimera
-  subrepo: user
-  srcname: miniserve
-  binname: miniserve-bashcomp
-  visiblename: miniserve-bashcomp
-  version: 0.35.0
-  origversion: 0.35.0-r0
-  status: newest
-  summary: CLI tool to serve files and dirs over HTTP (bash completions)
-  licenses:
-    - MIT
-- repo: chimera
-  subrepo: user
-  srcname: miniserve
   binname: miniserve-doc
   visiblename: miniserve-doc
   version: 0.35.0
@@ -746,6 +732,34 @@
   visiblename: rust-miniserve
   version: 0.35.0
   origversion: 0.35.0-5
+  status: newest
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - git@rxv.cc
+  categories:
+    - net
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: rust-miniserve
+  binnames:
+    - miniserve
+  visiblename: rust-miniserve
+  version: 0.35.0
+  origversion: 0.35.0-6
+  status: newest
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - git@rxv.cc
+  categories:
+    - net
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: rust-miniserve
+  binnames:
+    - miniserve
+  visiblename: rust-miniserve
+  version: 0.35.0
+  origversion: 0.35.0-6
   status: newest
   maintainers:
     - pkg-rust-maintainers@alioth-lists.debian.net
