@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,008 · **Forks**: 409 · **Open issues**: 343 · **Contributors**: 69
+- **Stars**: 8,032 · **Forks**: 412 · **Open issues**: 343 · **Contributors**: 69
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 0 | 1 | 1 | 0 | 3 | 0 |
-| last60d | 2026-08-30 | 0 | 1 | 1 | 0 | 3 | 2 |
-| 90d | 2026-07-31 | 0 | 1 | 6 | 0 | 4 | 3 |
-| last180d | 2026-05-02 | 0 | 3 | 9 | 0 | 8 | 8 |
-| 360d | 2025-11-03 | 3 | 17 | 9 | 7 | 12 | 88 |
-| last720d | 2024-11-08 | 7 | 46 | 12 | 24 | 30 | 274 |
+| 30d | 2026-09-30 | 0 | 1 | 1 | 0 | 3 | 0 |
+| last60d | 2026-08-31 | 0 | 1 | 1 | 0 | 3 | 2 |
+| 90d | 2026-08-01 | 0 | 1 | 5 | 0 | 4 | 3 |
+| last180d | 2026-05-03 | 0 | 3 | 9 | 0 | 8 | 8 |
+| 360d | 2025-11-04 | 3 | 17 | 9 | 7 | 12 | 88 |
+| last720d | 2024-11-09 | 7 | 46 | 12 | 23 | 30 | 274 |
 
 ## Release assets
 
@@ -85,7 +85,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **83** distros on [repology.org](https://repology.org/project/miniserve). **41** are ✅ on the latest upstream release, **42** are ⚠️ on an older version.
+Reported by **84** distros on [repology.org](https://repology.org/project/miniserve). **42** are ✅ on the latest upstream release, **42** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -106,4 +106,4 @@ Install metadata for miniserve lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:09:23Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:07:07Z._
