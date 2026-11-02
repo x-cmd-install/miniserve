@@ -1,27 +1,3 @@
-- repo: chimera
-  subrepo: user
-  srcname: miniserve
-  binname: miniserve
-  visiblename: miniserve
-  version: 0.35.0
-  origversion: 0.35.0-r0
-  status: newest
-  summary: CLI tool to serve files and dirs over HTTP
-  licenses:
-    - MIT
-- repo: alpine_3_17
-  subrepo: community
-  srcname: miniserve
-  binname: miniserve-doc
-  visiblename: miniserve-doc
-  version: 0.21.0
-  origversion: 0.21.0-r0
-  status: outdated
-  summary: Quickly serve files via HTTP (documentation)
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
 - repo: alpine_3_17
   subrepo: community
   srcname: miniserve
@@ -74,6 +50,19 @@
     - michal@polanski.me
   licenses:
     - MIT
+- repo: alpine_3_17
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve-doc
+  visiblename: miniserve-doc
+  version: 0.21.0
+  origversion: 0.21.0-r0
+  status: outdated
+  summary: Quickly serve files via HTTP (documentation)
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
 - repo: alpine_3_18
   subrepo: community
   srcname: miniserve
@@ -103,12 +92,12 @@
 - repo: chimera
   subrepo: user
   srcname: miniserve
-  binname: miniserve-bashcomp
-  visiblename: miniserve-bashcomp
+  binname: miniserve
+  visiblename: miniserve
   version: 0.35.0
   origversion: 0.35.0-r0
   status: newest
-  summary: CLI tool to serve files and dirs over HTTP (bash completions)
+  summary: CLI tool to serve files and dirs over HTTP
   licenses:
     - MIT
 - repo: alpine_3_18
@@ -662,6 +651,17 @@
 - repo: chimera
   subrepo: user
   srcname: miniserve
+  binname: miniserve-bashcomp
+  visiblename: miniserve-bashcomp
+  version: 0.35.0
+  origversion: 0.35.0-r0
+  status: newest
+  summary: CLI tool to serve files and dirs over HTTP (bash completions)
+  licenses:
+    - MIT
+- repo: chimera
+  subrepo: user
+  srcname: miniserve
   binname: miniserve-doc
   visiblename: miniserve-doc
   version: 0.35.0
@@ -819,9 +819,9 @@
   srcname: miniserve
   binname: miniserve
   visiblename: miniserve
-  version: 0.35.0
-  origversion: 0.35.0-1
-  status: newest
+  version: 0.24.0
+  origversion: 0.24.0-1
+  status: outdated
   summary: Tool to serve files via HTTP
   licenses:
     - MIT
@@ -830,9 +830,9 @@
   srcname: miniserve
   binname: miniserve
   visiblename: miniserve
-  version: 0.35.0
-  origversion: 0.35.0-1
-  status: newest
+  version: 0.24.0
+  origversion: 0.24.0-1
+  status: outdated
   summary: Tool to serve files via HTTP
   licenses:
     - MIT
