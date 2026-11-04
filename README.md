@@ -14,14 +14,14 @@ x install miniserve
 
 ## Code insight
 
-Total: **8,241** lines of code across **44** files in the top 5 languages.
+Total: **8,265** lines of code across **45** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 6,938 | 234 | 932 | 33 |
+| Rust | 6,961 | 234 | 940 | 34 |
 | Sass | 1,066 | 26 | 167 | 6 |
 | Svg | 122 | 0 | 0 | 1 |
-| Toml | 88 | 9 | 5 | 3 |
+| Toml | 89 | 9 | 6 | 3 |
 | Makefile | 24 | 0 | 4 | 1 |
 
 ## OpenSSF Scorecard
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.35.0` (2026-04-08)
-- **Last commit**: 2026-11-02
+- **Last commit**: 2026-11-03
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 8,075 · **Forks**: 416 · **Open issues**: 343 · **Contributors**: 69
+- **Stars**: 8,085 · **Forks**: 417 · **Open issues**: 343 · **Contributors**: 69
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 676 · **Open PRs**: 16 · **Closed issues**: 262 · **Open issues**: 81 · **Commits**: 2568
+- **Releases**: 54 · **Merged PRs**: 677 · **Open PRs**: 16 · **Closed issues**: 262 · **Open issues**: 81 · **Commits**: 2570
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 0 | 3 | 0 | 3 | 1 |
-| last60d | 2026-09-04 | 0 | 1 | 3 | 0 | 3 | 3 |
-| 90d | 2026-08-05 | 0 | 1 | 7 | 0 | 4 | 4 |
-| last180d | 2026-05-07 | 0 | 3 | 11 | 0 | 7 | 8 |
-| 360d | 2025-11-08 | 3 | 17 | 11 | 7 | 12 | 89 |
-| last720d | 2024-11-13 | 7 | 46 | 14 | 23 | 30 | 275 |
+| 30d | 2026-10-05 | 0 | 1 | 3 | 0 | 3 | 2 |
+| last60d | 2026-09-05 | 0 | 2 | 3 | 0 | 3 | 4 |
+| 90d | 2026-08-06 | 0 | 2 | 7 | 0 | 4 | 5 |
+| last180d | 2026-05-08 | 0 | 4 | 11 | 0 | 7 | 9 |
+| 360d | 2025-11-09 | 3 | 18 | 11 | 7 | 12 | 90 |
+| last720d | 2024-11-14 | 7 | 47 | 14 | 23 | 30 | 277 |
 
 ## Release assets
 
@@ -106,4 +106,4 @@ Install metadata for miniserve lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T07:08:50Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T06:41:37Z._
