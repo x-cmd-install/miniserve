@@ -1,16 +1,17 @@
-- repo: alpine_3_20
-  subrepo: community
-  srcname: miniserve
-  binname: miniserve-doc
-  visiblename: miniserve-doc
-  version: 0.27.1
-  origversion: 0.27.1-r0
-  status: outdated
-  summary: Quickly serve files via HTTP (documentation)
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: rust-miniserve
+  binnames:
+    - miniserve
+  visiblename: rust-miniserve
+  version: 0.35.0
+  origversion: 0.35.0-6
+  status: newest
   maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - git@rxv.cc
+  categories:
+    - net
 - repo: alpine_3_17
   subrepo: community
   srcname: miniserve
@@ -228,6 +229,19 @@
   origversion: 0.27.1-r0
   status: outdated
   summary: Bash completions for miniserve
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: miniserve
+  binname: miniserve-doc
+  visiblename: miniserve-doc
+  version: 0.27.1
+  origversion: 0.27.1-r0
+  status: outdated
+  summary: Quickly serve files via HTTP (documentation)
   maintainers:
     - michal@polanski.me
   licenses:
@@ -726,20 +740,6 @@
     - net
 - repo: debian_unstable
   subrepo: sid/main
-  srcname: rust-miniserve
-  binnames:
-    - miniserve
-  visiblename: rust-miniserve
-  version: 0.35.0
-  origversion: 0.35.0-6
-  status: newest
-  maintainers:
-    - pkg-rust-maintainers@alioth-lists.debian.net
-    - git@rxv.cc
-  categories:
-    - net
-- repo: devuan_unstable
-  subrepo: unstable/main
   srcname: rust-miniserve
   binnames:
     - miniserve
