@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,170 · **Forks**: 422 · **Open issues**: 345 · **Contributors**: 69
+- **Stars**: 8,171 · **Forks**: 422 · **Open issues**: 345 · **Contributors**: 69
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 1 | 3 | 0 | 2 | 2 |
-| last60d | 2026-09-24 | 0 | 2 | 4 | 0 | 5 | 3 |
-| 90d | 2026-08-25 | 0 | 2 | 4 | 0 | 5 | 5 |
-| last180d | 2026-05-27 | 0 | 4 | 12 | 0 | 9 | 8 |
-| 360d | 2025-11-28 | 3 | 17 | 12 | 6 | 14 | 83 |
-| last720d | 2024-12-03 | 7 | 46 | 15 | 23 | 32 | 275 |
+| 30d | 2026-10-25 | 0 | 1 | 3 | 0 | 2 | 2 |
+| last60d | 2026-09-25 | 0 | 2 | 4 | 0 | 5 | 3 |
+| 90d | 2026-08-26 | 0 | 2 | 4 | 0 | 5 | 5 |
+| last180d | 2026-05-28 | 0 | 4 | 12 | 0 | 9 | 8 |
+| 360d | 2025-11-29 | 3 | 17 | 12 | 6 | 13 | 83 |
+| last720d | 2024-12-04 | 7 | 46 | 15 | 23 | 32 | 275 |
 
 ## Release assets
 
@@ -106,4 +106,4 @@ Install metadata for miniserve lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T09:20:50Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:22:20Z._
